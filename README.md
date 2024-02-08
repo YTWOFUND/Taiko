@@ -63,7 +63,6 @@ Set L1_PROVER_PRIVATE_KEY - Metamask wallet secret key </br>
 SGX_RAIKO_HOST= -We write SGX_RAIKO_HOST our own </br>
 ENABLE_PROPOSER - change the value to "true" </br>
 Set L1_PROPOSER_PRIVATE_KEY - Metamask wallet secret key </br>
-Set L2_SUGGESTED_FEE_RECIPIENT= - Metamask address </br>
 
 #### 10. Save the file ".env" Ctrl+X, Ctrl+Y, Enter.
 #### 11. For Prover to work correctly, you need to have a certain amount of Eth coins in the Sepolia network on your wallet. </br>
